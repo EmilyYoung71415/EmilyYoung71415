@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### Why I Love Computer science？
+Countless times I have thanked the computer, thankful for its openness, fairness, and tolerance. As long as you are willing to learn, with just one computer and an internet connection, you can gain something, have value. No one can hinder your progress but yourself.
